@@ -1,1 +1,3 @@
-This is the description of my repo
+## Branching, Making Changes, and Resolving Merge Conflicts
+Modification in feature-greeting branch.
+This task demonstrates how to create a branch, make conflicting changes, and resolve merge conflicts using Git and GitHub.
